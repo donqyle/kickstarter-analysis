@@ -10,7 +10,7 @@ We created two graphs to be able to help us understand the relations between lau
 - We made this through utilizing a pivot table. A challenge we found was trying to separate the data to get to months by grouping them up. 
 
 The second graph was more refinde towards plays and their success/fail/cancel rate. 
-- ![Outcomes Based on Launch Date](kickstarter-analysis/Resources/Outcomes Based on Launch Date.png)
+- ![Outcomes_Based_on_Launch_Date](kickstarter-analysis/Resources/Outcomes_Based_on_Launch_Date.png)
 - We used codes like =countifs() and =sum() to be able to create the graph. One challenge was trying to find a more efficient way to copy and paste the countifs code over to each column of successful, failure, and canceled.
  
 #Results:
